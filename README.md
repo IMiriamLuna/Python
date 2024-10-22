@@ -54,6 +54,9 @@ And that's it... Our first Hello World!! <3 Congrats!! We are doing an amazing j
 - After that, a new file will be shown, there we are going to write "print("Hello World")" and save the file as a Python file.
     ![image](https://github.com/user-attachments/assets/573fd360-e614-4455-be21-c3522c7d6244)
 
+> [!NOTE]
+> We can also use the NOTEPAD to create the new file, just make sure to save it as a Python file (.py).
+
 - We have the file now, so, how can we open it? Easy... Just open de shell and go to the direction where you saved the file, and write "python HelloWorld.py" or "python" and the name of your file .py, and click enter; it has to show "Hello world" in the console. 
     ![image](https://github.com/user-attachments/assets/0148de33-cac4-47a3-bd70-926c0434b661)
 
